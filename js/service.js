@@ -1,4 +1,4 @@
-var baseURL = "https://jsonplaceholder.typicode.com/";
+var baseURL = "https://byw1s98hik.execute-api.ap-south-1.amazonaws.com/dev/androidapp/";
 
 function getHeaders() {
   return {
